@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra CMakeFiles/vcs.dir/src/core/branchManager.cpp.o CMakeFiles/vcs.dir/src/main.cpp.o -o vcs  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lstdc++fs 

@@ -1,0 +1,29 @@
+[32mMerged branch 'testbranch' into 'main'[0m
+Checking VCS status...
+On branch main
+
+[32mChanges to be committed:[0m
+	(no changes staged for commit)
+
+[31mChanges not staged for commit:[0m
+[31m	modified: file2.txt.huff[0m
+[31m	modified: file1.txt.huff[0m
+[31m	modified: branchfile.txt.huff[0m
+
+[33mUntracked files:[0m
+[33m	vcs_test_log.txt[0m
+Testing revert functionality...
+[31mError: Commit does not exist[0m
+Logging...
+[33mcommit zQhzwG5x[0m
+Author: system
+Date:   2025-07-01 09:54:45
+
+    Merge branch 'testbranch'
+
+[33mcommit rBgOUjPZ[0m
+Author: system
+Date:   2025-07-01 09:54:44
+
+    Test commit
+

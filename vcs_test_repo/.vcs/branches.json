@@ -1,0 +1,21 @@
+{
+    "branches": {
+        "main": {
+            "commitHistory": [
+                "rBgOUjPZ",
+                "zQhzwG5x"
+            ],
+            "currentCommitId": "zQhzwG5x",
+            "name": "main"
+        },
+        "testbranch": {
+            "commitHistory": [
+                "rBgOUjPZ",
+                "i9sJX4z5"
+            ],
+            "currentCommitId": "i9sJX4z5",
+            "name": "testbranch"
+        }
+    },
+    "currentBranch": "main"
+}

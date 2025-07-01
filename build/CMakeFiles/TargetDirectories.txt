@@ -1,0 +1,7 @@
+/mnt/d/College/Projects/vcs/build/CMakeFiles/vcs.dir
+/mnt/d/College/Projects/vcs/build/CMakeFiles/edit_cache.dir
+/mnt/d/College/Projects/vcs/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/College/Projects/vcs/build/CMakeFiles/list_install_components.dir
+/mnt/d/College/Projects/vcs/build/CMakeFiles/install.dir
+/mnt/d/College/Projects/vcs/build/CMakeFiles/install/local.dir
+/mnt/d/College/Projects/vcs/build/CMakeFiles/install/strip.dir
